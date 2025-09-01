@@ -61,7 +61,7 @@ This term acts as a regularizer. It measures the "distance" between the learned 
 
 $$L_{KL} = -0.5 \sum_{i=1}^{dz} (1 + \log(\sigma^2_i) - \mu^2_i - \sigma^2_i)$$
 
-![Model Architecture](./Images/VAE .png)
+![Model Architecture](Images/VAE%20.png)
 
 
 
