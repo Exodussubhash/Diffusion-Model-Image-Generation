@@ -64,11 +64,6 @@ This term acts as a regularizer. It measures the "distance" between the learned 
 
 $$L_{KL} = -0.5 \sum_{i=1}^{dz} (1 + \log(\sigma^2_i) - \mu^2_i - \sigma^2_i)$$
 
-![Unet Process](UNet.png)
-
-
-![Diffusion Process](DiffusionProcess.png)
-
 
 
 
@@ -85,5 +80,10 @@ to force the model to prioritize reconstruction.
 The Beta Trade-Off was the most crucial insight. I discovered the fundamental trade-off between reconstruction quality and latent space usability and methodically
 tuned β to find the ”sweet spot.”
 - **Weighting Factor ($β$):** The parameter $β$ can be tuned to balance the trade-off between reconstruction quality and the regularity of the latent space.
+
+![Unet Process](UNet.png)
+
+
+![Diffusion Process](DiffusionProcess.png)
 
 ---
