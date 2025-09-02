@@ -67,7 +67,7 @@ $$L_{KL} = -0.5 \sum_{i=1}^{dz} (1 + \log(\sigma^2_i) - \mu^2_i - \sigma^2_i)$$
 ![Unet Process](UNet.png)
 
 
-![Diffusion Process](Diffusion Process.png)
+![Diffusion Process](DiffusionProcess.png)
 
 
 
