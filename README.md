@@ -1,4 +1,4 @@
-
+Please find the [High-level documentation PPT](https://github.com/Exodussubhash/Diffusion-Model-Image-Generation/blob/main/Images/Diffusion%20Modeling%20for%20Speckle%20Generation%20in%20Multimode%20Fibers%20Final%20(2).pdf)
 
 # Variational Autoencoder (VAE)
 
